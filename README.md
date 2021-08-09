@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/WqueQ35.gif)
+![](shorter_gif.gif)
 
 ## Notes
 
